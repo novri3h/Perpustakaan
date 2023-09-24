@@ -8,12 +8,23 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/Perpustakaan/graphs/commit-activity)
 
-## Features Aplikasi Data Karyawan
+## Features Program Perpustakaan
+[Menu File]
+- Anggota
+- Buku
 
-- Input Data
-- Cari Data
-- Cetak Data
-- User
+[Menu Transaksi]
+- Pinjaman
+- Pengembalian
+
+[Menu Laporan]
+- Data Buku
+- Data Anggota
+- Laporan Transaksi
+
+[Menu Rincian]
+- Pinjaman
+- Pengembalian
 
 ## Tech
 
@@ -47,7 +58,7 @@ Aplikasi ini dibangun dengan menggunakan:
 
 Install Visual Basic 6 dan Crystal Reports.
 
-<div align="justify">Jalankan Aplikasi.vbp untuk merubah Code</div>
+<div align="justify">Jalankan Program Perpus.vbp untuk merubah Code atau klik Program Perpustakaan.exe untuk menjalankan aplikasinya</div>
 <br>
 Untuk Login Ke aplikasi Username dan password ---> admin
 <br>
